@@ -1,0 +1,24 @@
+img{
+    width: 300px;
+}
+body {
+    text-align: center;
+}
+
+#hometext {
+    width: 300px;
+    margin: auto;
+    text-align: justify;
+}
+
+#homecontain {
+    border: solid white;
+    width: 350px;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+
+img {
+    border-radius: 1000px;
+}
